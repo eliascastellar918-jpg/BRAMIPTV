@@ -84,9 +84,6 @@ https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-id="DO | Nítida TV" tvg-name="DO | Nitida TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/nitida-tv.jpg" group-title="REPUBLICA DOMINICANA", NITIDA TV 
 https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
 
-#EXTINF:-1 tvg-id="Telemax.do" tvg-name="Telemax" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="entertainment",TELEMAX
-https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_es_1920x1080_0.jpg"tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_es_1920x1080_0.jpg" group-title="CINE Y ENTRETENIMIENTO", *RUNTIME TV*
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 
@@ -95,12 +92,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
 #EXTINF:-1tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg" group-title="CINE Y ENTRETENIMIENTO", *RUNTIME CRIMEN*
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6129
-
-#EXTINF:-1 tvg-id="1273" tvg-name="Top Cine - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1273_Top_Cine___Freetv_com.png",*FREETV ACCION*
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1280" tvg-name="Tu Cine - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1280_Tu_Cine___Freetv_com.png",*FREETV ESTELAR*
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-name="Imagen Universal TV" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="general",IMAGEN UNIVERSAL TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
@@ -204,9 +195,6 @@ https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/pl
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", RETRO PLUS TV 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ENTRETENIMIE", *ANIME ONEGAI*
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="TV ABIERTA", CGTN ESPAÑOL 
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
@@ -221,6 +209,12 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="DEPORTES",*AYM SPORTS*
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+
+#EXTINF:-1, **AYM SPORTS 3**
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1, GOAL TV
+https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="613759" tvg-logo="https://canvas-lb.tubitv.com/opts/ktnXB23ysVjauw==/8968101d-cc65-48c7-a102-0a6a46ca55db/CHgQeDoFMS4xLjhAAQ==" group-title="Español",BEIN SPORTS XTRA Ñ
 https://live-manifest.production-public.tubi.io/live/6cd31e43-d255-4ab4-b065-7f28bd541047/playlist.m3u8
@@ -276,6 +270,9 @@ https://s2.bufaloweb.com/bufalo10/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", XTREAM +
 https://s2.bufaloweb.com/bufalo11/index.m3u8
 
+#EXTINF:-1, TYC SPORTS
+http://190.60.37.154:45000/play/a05a/index.m3u8
+
 #EXTINF:-1, SKY SPORT LALIGA
 http://179.60.224.196:8000/play/a0i7/index.m3u8
 
@@ -293,12 +290,6 @@ https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BZijfKh.png" group-title="Deportes Xtra", *BILLIARD TV 2*
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DAZNCombat.uk" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Sports", *DAZN COMBAT*
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-
-#EXTINF:-1tvg-logo="https://i.imgur.com/tsljAnY.png" ,*TENNIS  CHANNEL*
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="613765" tvg-logo="https://canvas-lb.tubitv.com/opts/_665V4AxYSxlLA==/652d017f-fb2a-460e-a528-ee54cc6ed872/CHgQeDoFMS4xLjhAAQ==" group-title="Sports On Now",MLB
 https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
