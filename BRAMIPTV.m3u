@@ -164,7 +164,6 @@ https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MASTV Toto" tvg-logo="https://static.wixstatic.com/media/7acae1_0f0f413f6c58499f91b93187b809edd3~mv2.png" group-title="Regionales Guatemala",MASTV 
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/505
 
-http://181.78.8.199:8000/play/a0fo/index.m3u8
 #EXTINF:0 group-title="Peliculas",AXN
 #EXTGRP:Peliculas
 #EXTVLCOPT:network-caching=1000
