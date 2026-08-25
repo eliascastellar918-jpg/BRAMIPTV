@@ -60,6 +60,11 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="ES34000039I" tvg-name="ES34000039I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20241022T050503SQUARE.png" group-title="Noticias" , CNN en Español
 https://jmp2.uk/stvp-ES34000039I
 
+#EXTINF:0 group-title="Peliculas",AXN
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0am/index.m3u8
+
 #EXTINF:0 group-title="Entretenimiento",A&E
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
@@ -163,11 +168,6 @@ https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MASTV Toto" tvg-logo="https://static.wixstatic.com/media/7acae1_0f0f413f6c58499f91b93187b809edd3~mv2.png" group-title="Regionales Guatemala",MASTV 
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/505
-
-#EXTINF:0 group-title="Peliculas",AXN
-#EXTGRP:Peliculas
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0am/index.m3u8
 
 #EXTINF:-1 tvg-id="ElPitucoTV.do" tvg-name="El Pituco TV" tvg-logo="https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png" group-title="general",EL PITUCO TV
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
@@ -415,9 +415,6 @@ http://190.60.37.154:45000/play/a05a/index.m3u8
 #EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0q9
-
-#EXTINF:-1, TNT SPORTS PREMIUM
-http://205.235.6.29:8000/play/a104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Dazn 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
