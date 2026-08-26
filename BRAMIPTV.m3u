@@ -37,6 +37,9 @@ http://181.78.79.131:8000/play/a0sk
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN MAS
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 channel-id="c5c6a54fbd0328b108453e2537b7eee1" tvg-id="c5c6a54fbd0328b108453e2537b7eee1" tvg-chno="979" tvg-name="Caracol Mix" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5c6a54fbd0328b108453e2537b7eee1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1774999084418_CMIX_Info_Hud_Log_260x147.png" group-title="Comedy",CARACOL MIX
+https://jmp2.uk/rok-c5c6a54fbd0328b108453e2537b7eee1.m3u8
+
 #EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png", 13 TELESERIES
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?PlaylistM3UCL
 
@@ -57,8 +60,11 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CASO CERRADO
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="ES34000039I" tvg-name="ES34000039I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20241022T050503SQUARE.png" group-title="Noticias" , CNN en Español
-https://jmp2.uk/stvp-ES34000039I
+#EXTINF:-1 channel-id="a9aae4e62e6fd8e401033cd14ceeaaa2" tvg-id="a9aae4e62e6fd8e401033cd14ceeaaa2" tvg-chno="915" tvg-name="RCN Noticias" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a9aae4e62e6fd8e401033cd14ceeaaa2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744238957605_RCNNoticiaslogoefefef260x147copyJuanMVelasquez.png" group-title="News",RCN NOTICIAS
+https://jmp2.uk/rok-a9aae4e62e6fd8e401033cd14ceeaaa2.m3u8
+
+#EXTINF:-1 channel-id="e3823bb513585861904499a21a736c4f" tvg-id="e3823bb513585861904499a21a736c4f" tvg-chno="977" tvg-name="Canal ViX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e3823bb513585861904499a21a736c4f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1743194357309_CanalViX_HUD_ChannelLogo_260x147px.png" group-title="TV & Entertainment",CANAL ViX
+https://jmp2.uk/rok-e3823bb513585861904499a21a736c4f.m3u8
 
 #EXTINF:0 group-title="Peliculas",AXN
 #EXTGRP:Peliculas
@@ -175,6 +181,9 @@ https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Movies",*XTREMA ACCION*
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
+#EXTINF:-1 channel-id="79eb3a43680e5a9f9689fee074502a3b" tvg-id="79eb3a43680e5a9f9689fee074502a3b" tvg-chno="993" tvg-name="Cine Romantico" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eb3a43680e5a9f9689fee074502a3b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661549410243_cineRomantico_HUDlogo_centered_260x147.png" group-title="Romance",CINE ROMANTICO
+https://jmp2.uk/rok-79eb3a43680e5a9f9689fee074502a3b.m3u8
+
 #EXTINF:-1 tvg-id="1681" tvg-name="Net Channel Señal 2" tvg-logo="https://cdn.m3u.cl/logo/1681_Net_Channel_Senal_2.png", NET CHANNEL 
 https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
 
@@ -244,6 +253,9 @@ https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 tvg-id="ES2800001G7" tvg-name="ES2800001G7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png" group-title="Cine" , PLANETA DE CINE
 https://jmp2.uk/stvp-ES2800001G7
 
+#EXTINF:-1 channel-id="a208207740dabd5e846e107b84db9123" tvg-id="a208207740dabd5e846e107b84db9123" tvg-chno="1019" tvg-name="PopCorn Central" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a208207740dabd5e846e107b84db9123/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1778891092269_Info-HUD-channel-Identifier_260x147.png" group-title="Sports",POPCORN CENTAL
+https://jmp2.uk/rok-a208207740dabd5e846e107b84db9123.m3u8
+
 #EXTINF:-1 tvg-id="MarkaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg" group-title="General",MARKA TV
 https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
 
@@ -252,6 +264,9 @@ https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-name="Infinita TV Premium" tvg-logo="https://cdn.m3u.cl/logo/484_Infinita_TV_Premium.png", INFINITA TV PREMIUM
 https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 channel-id="9fc6583c28985e15b3f05b46f5d77957" tvg-id="9fc6583c28985e15b3f05b46f5d77957" tvg-chno="1006" tvg-name="FreeTV Acción" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9fc6583c28985e15b3f05b46f5d77957/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1710282473878_FREETV_Accion_260x147.png" group-title="Sports",FreeTV ACCION
+https://jmp2.uk/rok-9fc6583c28985e15b3f05b46f5d77957.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1323_Oromar.png" group-title="Variedades", OROMAR TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
@@ -279,6 +294,15 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", CANELA CLASICOS
 https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="1e2a4ec82eb65f729ad7484337c0bcd4" tvg-id="1e2a4ec82eb65f729ad7484337c0bcd4" tvg-chno="1034" tvg-name="FILMEX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e2a4ec82eb65f729ad7484337c0bcd4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744073738_FMXHD_HUD_WHITE.png" group-title="Sports",FILMEX
+https://jmp2.uk/rok-1e2a4ec82eb65f729ad7484337c0bcd4.m3u8
+
+#EXTINF:-1 channel-id="f53e794f65b781ff1a0d37843c704827" tvg-id="f53e794f65b781ff1a0d37843c704827" tvg-chno="1014" tvg-name="FILMEX Acción" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f53e794f65b781ff1a0d37843c704827/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766446354112_FMXac_HUD_WHITE.png" group-title="Sports",FILMEX ACCION
+https://jmp2.uk/rok-f53e794f65b781ff1a0d37843c704827.m3u8
+
+#EXTINF:-1 channel-id="50cd4d6c632d5172834eb5b77fa395c6" tvg-id="50cd4d6c632d5172834eb5b77fa395c6" tvg-chno="1033" tvg-name="FILMEX Clásico" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/50cd4d6c632d5172834eb5b77fa395c6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744349180_FMXCHD_HUD_WHITE.png" group-title="Sports",FILMEX CLASICOS
+https://jmp2.uk/rok-50cd4d6c632d5172834eb5b77fa395c6.m3u8
 
 #EXTINF:-1 tvg-id="ES500008IU" tvg-name="ES500008IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500008IU_20260224T030754SQUARE.png" group-title="Cine" , FREETV CLASICOS
 https://jmp2.uk/stvp-ES500008IU
@@ -316,6 +340,9 @@ http://181.78.79.131:8000/play/a0sl
 #EXTINF:-1 tvg-id="ES33000025N" tvg-name="ES33000025N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20250715T004330SQUARE.png" group-title="Crimen" , CRIMEN & HISTORIAS
 https://jmp2.uk/stvp-ES33000025N
 
+#EXTINF:-1 channel-id="098bce44be895630a3e437516fe70853" tvg-id="098bce44be895630a3e437516fe70853" tvg-chno="947" tvg-name="Naturaleza Salvaje" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/098bce44be895630a3e437516fe70853/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704747063109_NaturalezaSalvaje_Image_HUD2.png" group-title="Documentary",NATURALEZA SALVAJE
+https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
+
 #EXTINF:0 group-title="Documentales",NAT GEO
 #EXTGRP:Documentales
 #EXTVLCOPT:network-caching=1000
@@ -326,6 +353,9 @@ https://jmp2.uk/stvp-ESBA3300033PL
 
 #EXTINF:-1 tvg-id="ES1600003FF" tvg-name="ES1600003FF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600003FF_20260421T125606SQUARE.png" group-title="Documentales" , PLANETA SALVAJE
 https://jmp2.uk/stvp-ES1600003FF
+
+#EXTINF:-1 channel-id="c39d021ed8c95682a82ce6077ac0ab47" tvg-id="c39d021ed8c95682a82ce6077ac0ab47" tvg-chno="1049" tvg-name="Runtime Sangre Fría" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c39d021ed8c95682a82ce6077ac0ab47/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1748485001772_Sangre_Fria_HUD_260x147.png" group-title="Crime",RUNTIME SANGRE FRIA
+https://jmp2.uk/rok-c39d021ed8c95682a82ce6077ac0ab47.m3u8
 
 #EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://cdn.m3u.cl/logo/511_DW_Espanol.png", DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
@@ -342,6 +372,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:-1, **AYM SPORTS 3**
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
+#EXTINF:-1 channel-id="35633f08c98857cb9e85c91eae17c0d5" tvg-id="35633f08c98857cb9e85c91eae17c0d5" tvg-chno="933" tvg-name="ViX Lo Mejor de Liga MX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/35633f08c98857cb9e85c91eae17c0d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749856192932_LoMejorDeLigaMX_HUD_ChannelLogo_260x147px.png" group-title="Sports",ViX LIGA MX
+https://jmp2.uk/rok-35633f08c98857cb9e85c91eae17c0d5.m3u8
+
 #EXTINF:-1 tvg-id="1199" tvg-name="D13" tvg-logo="https://cdn.m3u.cl/logo/1199_D13.png", D13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
 
@@ -356,6 +389,9 @@ https://jmp2.uk/stvp-ESBD3600001Q1
 
 #EXTINF:-1 tvg-id="ESBC2700009B4" tvg-name="ESBC2700009B4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20251028T011349SQUARE.png" group-title="Deporte" , FIFA+
 https://jmp2.uk/stvp-ESBC2700009B4
+
+#EXTINF:-1 channel-id="735c2b7253c551ae9f07b07ea5278b75" tvg-id="735c2b7253c551ae9f07b07ea5278b75" tvg-chno="934" tvg-name="Canela.TV Deportes" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/735c2b7253c551ae9f07b07ea5278b75/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1779312530486_ROKU-Deportes-InfoHUD-1.png" group-title="Sports",CANELA.TV DEPORTES
+https://jmp2.uk/rok-735c2b7253c551ae9f07b07ea5278b75.m3u8
 
 #EXTINF:-1, GOAL TV
 https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8?channel_name=GOAL%20TV&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
@@ -469,6 +505,10 @@ https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", RETRO PLUS TV SEÑAL 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="TV ABIERTA", TELERITMO
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", *IBIZA TV*
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/.m3u8
