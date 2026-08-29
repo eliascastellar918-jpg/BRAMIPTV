@@ -29,11 +29,6 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Novelas | NOVELISIMAS
 https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8
 
-#EXTINF:0 group-title="Colombia",RCN NOVELAS
-#EXTGRP:Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sk
-
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN MAS
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
@@ -165,9 +160,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6129
 
 #EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-name="Imagen Universal TV" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="general",IMAGEN UNIVERSAL TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-
-#EXTINF:-1 tvg-id="Telebolivar.co@SD" tvg-logo="https://i.imgur.com/dYhnVoV.png" group-title="General",TELEBOLIVAR
-https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png", *AMC EN ESPAÑOL*
 https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
