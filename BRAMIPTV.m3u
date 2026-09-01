@@ -418,8 +418,10 @@ http://191.97.49.82:8001/play/a00m/index.m3u8
 #EXTINF:-1, ESPN2
 http://45.167.1.136:8000/play/a06b
 
-#EXTINF:-1 tvg-logo="",ESPN 3
-https://s2.bufaloweb.com/bufalo5/index.m3u8
+#EXTINF:0 group-title="Deportes",ESPN 3 
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s6
 
 #EXTINF:-1, ESPN3
 http://45.167.1.136:8000/play/a02k
