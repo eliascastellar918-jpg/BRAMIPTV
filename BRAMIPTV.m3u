@@ -167,6 +167,9 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png", *AMC EN ESPAÑOL*
 https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional",AMC Latin America
+http://15.204.246.24:8080/AMCHD/index.m3u8
+
 #EXTINF:-1 channel-id="9b3f0b588b03c9126a053d3eebfc58db" tvg-id="9b3f0b588b03c9126a053d3eebfc58db" tvg-chno="1013" tvg-name="FreeTV Asia" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9b3f0b588b03c9126a053d3eebfc58db/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1736789758464_FreeTV_Asia_HUD_Logo_.png" group-title="Sports",FreeTV ASIA
 https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
 
@@ -196,6 +199,12 @@ http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CromTV.do" tvg-name="CromTV" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="general",CROMTV
 https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CineFamiliar.us@SD",CINE FAMILIAR
+http://177.234.218.66:8084/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-id="CinePremium.us@SD",CINE PREMIUM
+http://190.61.90.17:40000/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Totovisión (TOT)" tvg-logo="https://static.wixstatic.com/media/7acae1_53119f9bd94741c9bbc6d971331cdaa4~mv2.png" group-title="Regionales Guatemala",TOTOVISION
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/47
