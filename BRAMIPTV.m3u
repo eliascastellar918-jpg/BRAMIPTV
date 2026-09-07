@@ -9,9 +9,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3
 #EXTINF:-1 tvg-id="ES200041FT" tvg-name="ES200041FT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200041FT_20260127T040140SQUARE.png" group-title="Serie" , SERIES K COMEDIA ROMÁNTICA
 https://jmp2.uk/stvp-ES200041FT
 
-#EXTINF:-1 channel-id="9b3f0b588b03c9126a053d3eebfc58db" tvg-id="9b3f0b588b03c9126a053d3eebfc58db" tvg-chno="1013" tvg-name="FreeTV Asia" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9b3f0b588b03c9126a053d3eebfc58db/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1736789758464_FreeTV_Asia_HUD_Logo_.png" group-title="Sports",FreeTV ASIA
-https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", NOVELAS TURCAS
 https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist.m3u8
 
@@ -57,6 +54,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TELEMUNDO ACCION
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 channel-id="9b3f0b588b03c9126a053d3eebfc58db" tvg-id="9b3f0b588b03c9126a053d3eebfc58db" tvg-chno="1013" tvg-name="FreeTV Asia" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9b3f0b588b03c9126a053d3eebfc58db/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1736789758464_FreeTV_Asia_HUD_Logo_.png" group-title="Sports",FreeTV ASIA
+https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CASO CERRADO
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
@@ -203,12 +203,6 @@ http://177.234.218.66:8084/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="CinePremium.us@SD",CINE PREMIUM
 http://190.61.90.17:40000/play/a02i/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Totovisión (TOT)" tvg-logo="https://static.wixstatic.com/media/7acae1_53119f9bd94741c9bbc6d971331cdaa4~mv2.png" group-title="Regionales Guatemala",TOTOVISION
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/47
-
-#EXTINF:-1 tvg-id="" tvg-name="Tv Florencia (SAC)" tvg-logo="https://static.wixstatic.com/media/7acae1_4f77437ba53c4b898edfddd58c96faa4~mv2.png" group-title="Regionales Guatemala",TV FLORENCIA
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/49
-
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://cdn.m3u.cl/logo/476_WOW_TV.png", WOW TV
 https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8?PlaylistM3UCL
 
@@ -244,9 +238,6 @@ https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NimTV.gt" tvg-logo="https://i.imgur.com/mBNOSzl.png" group-title="Undefined",NIM TV 
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-
-#EXTINF:-1 tvg-id="CanaTVDigital.do@SD",CANA TV 
-https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
 
 #EXTINF:-1 tvg-id="ConstanzaTV.do@SD",CONSTANZATV 
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
