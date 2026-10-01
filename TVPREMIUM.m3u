@@ -13,7 +13,7 @@ https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
 https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:0 group-title="DRAMAS Y NOVELAS",TNT NOVELAS
-#EXTGRP:Peliculas
+#EXTGRP:DRAMAS Y NOVELAS
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0na
 
@@ -45,7 +45,7 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?PlaylistM
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0 group-title="DRAMAS Y NOVELAS",TLNOVELAS
-#EXTGRP:Peliculas
+#EXTGRP:DRAMAS Y NOVELAS
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0t6
 
@@ -92,11 +92,11 @@ https://jmp2.uk/rok-e3823bb513585861904499a21a736c4f.m3u8
 https://jmp2.uk/rok-a9aae4e62e6fd8e401033cd14ceeaaa2.m3u8
 
 #EXTINF:0 group-title="PELICULAS Y SERIES",AXN
-#EXTGRP:Peliculas
+#EXTGRP:PELICULAS Y SERIES
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0am/index.m3u8
 
-#EXTINF:-1 tvg-id="1006" tvg-name="Neo TV" tvg-logo="https://cdn.m3u.cl/logo/1006_Neo_TV.png group-title="PELICULAS Y SERIES", NEO TV
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1006_Neo_TV.png group-title="PELICULAS Y SERIES", NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="ORBITTV.do" tvg-name="ORBIT TV" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="PELICULAS Y SERIES",ORBIT TV
@@ -118,7 +118,7 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="PELICULAS Y SERIES",CINECANAL
-#EXTGRP:Peliculas
+#EXTGRP:PELICULAS Y SERIES
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pp
 
@@ -135,7 +135,7 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/60
 
 #EXTINF:0 group-title="PELICULAS Y SERIES",SPACE
-#EXTGRP:Peliculas
+#EXTGRP:PELICULAS Y SERIES
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0q2
 
@@ -152,7 +152,7 @@ https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 
 #EXTINF:0 group-title="PELICULAS Y SERIES",HBO
-#EXTGRP:Peliculas
+#EXTGRP:PELICULAS Y SERIES
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0qd
 
@@ -160,7 +160,7 @@ http://181.78.79.131:8000/play/a0qd
 http://190.61.43.117:45000/play/a023
 
 #EXTINF:0 group-title="PELICULAS Y SERIES",HBO XTREME
-#EXTGRP:Peliculas
+#EXTGRP:PELICULAS Y SERIES
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0qy
 
@@ -189,7 +189,7 @@ https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
 https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="PELICULAS Y SERIES",WARNER TV
-#EXTGRP:Peliculas
+#EXTGRP:PELICULAS Y SERIES
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pz
 
@@ -209,7 +209,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6129
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
 #EXTINF:0 group-title="PELICULAS Y SERIES",UNIVERSAL CHANNEL
-#EXTGRP:Peliculas
+#EXTGRP:PELICULAS Y SERIES
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0mw
 
@@ -395,7 +395,7 @@ https://jmp2.uk/rok-1e2a4ec82eb65f729ad7484337c0bcd4.m3u8
 http://190.61.43.117:45000/play/a01y
 
 #EXTINF:0 group-title="INFANTILES",NICKELODEON
-#EXTGRP:Entretenimiento
+#EXTGRP:INFANTILES
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0qm
 
@@ -418,16 +418,16 @@ http://177.234.218.66:8084/play/a01x/index.m3u8
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 
-#EXTINF:-1 tvg-id="13Kids.cl@SD" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="INFANTILES",13 KIDS
+#EXTINF:-1  tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="INFANTILES",13 KIDS
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
-#EXTINF:-1 tvg-id="1691" tvg-name="ZyoonTV" tvg-logo="https://cdn.m3u.cl/logo/1691_ZyoonTV.png group-title="ANIME", ZYOONTV
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1691_ZyoonTV.png group-title="ANIME", ZYOONTV
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png group-title="ANIME", ANIMESTATION
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://cdn.m3u.cl/logo/52_Dreiko_TV.png group-title="ANIME", DREIKO TV
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/52_Dreiko_TV.png group-title="ANIME", DREIKO TV
 https://cloudvideo.servers10.com:8081/8020/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="PlutoTVAnime.de@ES" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png" group-title="ANIME",PLUTO TV ANIME
@@ -446,7 +446,7 @@ https://jmp2.uk/plu-64c92f965580090008084968.m3u8
 https://jmp2.uk/rok-307b3b9ea321539b9688148fc97a8bfd.m3u8
 
 #EXTINF:0 group-title="DOCUMENTALES",A&E
-#EXTGRP:Entretenimiento
+#EXTGRP:DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0mt
 
@@ -454,11 +454,11 @@ http://181.78.79.131:8000/play/a0mt
 https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
 
 #EXTINF:0 group-title="DOCUMENTALES",NAT GEO
-#EXTGRP:Documentales
+#EXTGRP:DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pt
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png group-title="DOCUMENTALES",PLUTO TV VELOCIDAD
+#EXTINF:-1 group-title="DOCUMENTALES",PLUTO TV VELOCIDAD
 https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
 
 #EXTINF:-1 tvg-id="Elencantadordeperros.us@Spain" tvg-logo="https://i.imgur.com/hYqjQ1n.png" group-title="DOCUMENTALES",EL ENCANTADOR DE PERROS
@@ -525,7 +525,7 @@ http://191.97.49.82:8001/play/a00m/index.m3u8
 http://45.167.1.136:8000/play/a06b
 
 #EXTINF:0 group-title="DEPORTES",ESPN 3 
-#EXTGRP:Deportes
+#EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0s6
 
@@ -548,7 +548,7 @@ http://45.167.1.136:8000/play/a04g
 http://45.167.1.136:8000/play/a06d
 
 #EXTINF:0 group-title="DEPORTES",ESPN 7
-#EXTGRP:Deportes
+#EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0s8
 
@@ -589,20 +589,20 @@ http://190.60.37.154:45000/play/a05a/index.m3u8
 http://205.235.6.29:8000/play/a0xa/index.m3u8
 
 #EXTINF:0 group-title="DEPORTES",TNT SPORTS PREMIUM
-#EXTGRP:Deportes
+#EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0q9
 
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png group-title="DEPORTES", Dazn 2
+#EXTINF:-1 group-title="DEPORTES", Dazn 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png group-title="DEPORTES", Dazn 3
+#EXTINF:-1 group-title="DEPORTES", Dazn 3
 http://23.237.104.106:8080/DAZN_3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png group-title="DEPORTES", Dazn 4
+#EXTINF:-1 group-title="DEPORTES", Dazn 4
 http://23.237.104.106:8080/DAZN_4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png group-title="DEPORTES", Dazn 5
+#EXTINF:-1 group-title="DEPORTES", Dazn 5
 http://23.237.104.106:8080/DAZN_5/index.m3u8
 
 #EXTINF:-1 channel-id="b4273871759a5631bd536d2214f175e5" tvg-id="b4273871759a5631bd536d2214f175e5" tvg-chno="246" tvg-name="Fubo Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b4273871759a5631bd536d2214f175e5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761774127737_Roku-FSN-Logo-efefef.png" group-title="DEPORTES",FUBO SPORTS NETWORK
