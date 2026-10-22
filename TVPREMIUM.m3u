@@ -9,6 +9,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3
 #EXTINF:-1 channel-id="9b3f0b588b03c9126a053d3eebfc58db" tvg-id="9b3f0b588b03c9126a053d3eebfc58db" tvg-chno="1013" tvg-name="FreeTV Asia" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9b3f0b588b03c9126a053d3eebfc58db/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1736789758464_FreeTV_Asia_HUD_Logo_.png" group-title="DRAMAS&NOVELAS",FREETV ASIA
 https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
 
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/thumbnails/poster/267x400/drama_2x3.png group-title="DRAMAS&NOVELAS", FREETV DRAMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16562&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="DRAMAS&NOVELAS", NOVELAS TURCAS
 https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist.m3u8
 
@@ -294,6 +297,9 @@ http://177.234.218.66:8084/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="CinePremium.us@SD group-title="PELICULAS&SERIES",CINE PREMIUM
 http://190.61.90.17:40000/play/a02i/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/logoAlt_1779087601940.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png group-title="PELICULAS&SERIES", PLUTO TV CINE TERROR
+https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
+
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://cdn.m3u.cl/logo/476_WOW_TV.png group-title="PELICULAS&SERIES", WOW TV
 https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8?PlaylistM3UCL
 
@@ -327,6 +333,9 @@ https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CodigoTV.do" tvg-name="Codigo TV" tvg-logo="https://imgur.com/DbjywI3.png" group-title="PELICULAS&SERIES",CODIGO TV
 https://edge.essastream.com/codigotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/1003/lg/003d48/LG-Logo-PNG-100x100_v2.png group-title="PELICULAS&SERIES", SONY ONE CINEMA
+https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SonyChannelAndes.us@SD group-title="PELICULAS&SERIES",SONY CHANNEL
 http://15.204.246.24:8080/SonyHD/index.m3u8
@@ -469,6 +478,9 @@ https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 #EXTINF:-1 channel-id="307b3b9ea321539b9688148fc97a8bfd" tvg-id="307b3b9ea321539b9688148fc97a8bfd" tvg-chno="363" tvg-name="Crunchyroll" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/307b3b9ea321539b9688148fc97a8bfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694207383202_RokuImage-HUD-2_260x147px_Wil_Rosser.png" group-title="INFANTIL&ANIMES",CRUNCHYROLL
 https://jmp2.uk/rok-307b3b9ea321539b9688148fc97a8bfd.m3u8
 
+#EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/617/lg/01b45e/LG-Logo-PNG-100x100_v2.png group-title="INFANTIL&ANIMES ", NEW KPOP
+https://c0e27451f9624e41b622986316e1b10f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-mx_NewKPop/playlist.m3u8
+
 #EXTINF:0 group-title="DOCUMENTALES",DISCOVERY SCIENCE
 #EXTGRP:DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
@@ -502,6 +514,9 @@ http://15.204.246.24:8080/HistoryHD/index.m3u8
 
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional group-title="DOCUMENTALES",HISTORY CHANNEL 2
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png group-title="DOCUMENTALES", PLUTO TV NATURALEZA
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png group-title="DOCUMENTALES",ENCANTADOR DE PERROS
 https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
