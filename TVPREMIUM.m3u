@@ -99,11 +99,11 @@ http://181.78.79.131:8000/play/a0p3
 #EXTINF:-1 group-title="NOTICIAS",BLU RADIO
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 
-#EXTINF:-1 group-title="NACIONALES", RCN TV
-http://138.121.15.230:9002/RCN/index.m3u8
-
 #EXTINF:-1 group-title="NACIONALES",CARACOL TV
 http://138.121.15.230:9002/CARACOL/index.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", RCN TV
+http://138.121.15.230:9002/RCN/index.m3u8
 
 #EXTINF:-1 group-title="NACIONALES",CANAL1 
 http://138.121.15.230:9002/CANAL-UNO/index.m3u8
@@ -313,6 +313,9 @@ https://edge.essastream.com/xtratv/index.m3u8
 #EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="PELICULAS&SERIES",BUM TELEVISION
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
+#EXTINF:-1 tvg-id="CSIenespanol.us" tvg-logo="https://i.imgur.com/ifarQil.png" group-title="PELICULAS&SERIES",CSI EN ESPAÑOL
+https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
+
 #EXTINF:-1 tvg-id="LaCaletaTV.do@SD" tvg-logo="https://i.imgur.com/EfMtOja.png" group-title="PELICULAS&SERIES",LA CALETA TV 
 https://edge.essastream.com/lacaletatv/playlist.m3u8
 
@@ -321,6 +324,9 @@ https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/
 
 #EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="PELICULAS&SERIES", MAS TV
 https://movil.ejeserver.com/live/teledoradahd.m3u8
+
+#EXTINF:-1 tvg-id="CinePremiere.us" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="PELICULAS&SERIES",CINE ADRENALINA
+https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 
 #EXTINF:-1 tvg-id="XtremaAccion.ar@SD" tvg-logo="https://i.imgur.com/z5NwizH.png" http-referrer="https://xtrematv.com/?p=1434" group-title="PELICULAS&SERIES",XTREMA ACCION
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
@@ -331,6 +337,9 @@ https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CodigoTV.do" tvg-name="Codigo TV" tvg-logo="https://imgur.com/DbjywI3.png" group-title="PELICULAS&SERIES",CODIGO TV
 https://edge.essastream.com/codigotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ActionHits_ChannelLogo_Horizontal.png group-title="PELICULAS&SERIES",SONY ONE ACCION
+https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/1003/lg/003d48/LG-Logo-PNG-100x100_v2.png group-title="PELICULAS&SERIES", SONY ONE CINEMA
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
@@ -346,6 +355,9 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BayresTV.ar@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" group-title="PELICULAS&SERIES",BAYRES TV 
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NativaTVSatipo.pe@SD" tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="PELICULAS&SERIES",NATIVA TV 
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
 #EXTINF:-1 tvg-id="NimTV.gt" tvg-logo="https://i.imgur.com/mBNOSzl.png" group-title="PELICULAS&SERIES",NIM TV 
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
@@ -422,6 +434,9 @@ https://jmp2.uk/rok-1e2a4ec82eb65f729ad7484337c0bcd4.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="INFANTIL&ANIMES",CARTOON NETWORK 
 http://190.61.43.117:45000/play/a01y
 
+#EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTIL&ANIMES",CARTOONITO
+http://45.173.12.70:8000/play/a0hh
+
 #EXTINF:0 group-title="INFANTIL&ANIMES",NICKELODEON
 #EXTGRP:INFANTIL&ANIMES
 #EXTVLCOPT:network-caching=1000
@@ -452,6 +467,9 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="INFANTIL&ANIMES",13 KIDS
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@ES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Kids",MR.BEAN ANIMADO
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/logoAlt_1785346475723.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png group-title="INFANTIL&ANIMES", PLUTO TV ANIME
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
 
@@ -475,9 +493,6 @@ https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 
 #EXTINF:-1 channel-id="307b3b9ea321539b9688148fc97a8bfd" tvg-id="307b3b9ea321539b9688148fc97a8bfd" tvg-chno="363" tvg-name="Crunchyroll" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/307b3b9ea321539b9688148fc97a8bfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694207383202_RokuImage-HUD-2_260x147px_Wil_Rosser.png" group-title="INFANTIL&ANIMES",CRUNCHYROLL
 https://jmp2.uk/rok-307b3b9ea321539b9688148fc97a8bfd.m3u8
-
-#EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/617/lg/01b45e/LG-Logo-PNG-100x100_v2.png group-title="INFANTIL&ANIMES ", NEW KPOP
-https://c0e27451f9624e41b622986316e1b10f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-mx_NewKPop/playlist.m3u8
 
 #EXTINF:0 group-title="DOCUMENTALES",DISCOVERY SCIENCE
 #EXTGRP:DOCUMENTALES
@@ -539,6 +554,9 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?Playli
 
 #EXTINF:-1 group-title="RELIGION",CRISTOVISION
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExtremaKidsTV.cr@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" group-title="RELIGION",EXTREMA KIDS TV
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
 #EXTINF:-1 group-title="RELIGION",CINE DIOS
 https://canal.mediaserver.com.co/live/cinedios.m3u8
@@ -674,6 +692,9 @@ http://23.237.104.106:8080/DAZN_5/index.m3u8
 #EXTINF:-1 channel-id="b4273871759a5631bd536d2214f175e5" tvg-id="b4273871759a5631bd536d2214f175e5" tvg-chno="246" tvg-name="Fubo Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b4273871759a5631bd536d2214f175e5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761774127737_Roku-FSN-Logo-efefef.png" group-title="DEPORTES",FUBO SPORTS NETWORK
 https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
 
+#EXTINF:-1 tvg-id="Teledeporte.es@SD" tvg-logo="https://i.ibb.co/0jxLdjnY/TDP.png" group-title="DEPORTES",TELEDEPORTES
+https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", DFB Play
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15795&avod=1&content_dist_name=freelivesports&content_channel=DFB%20Play&channel_name=DFB%20Play&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&rating=PG&preferred_language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&consent=[CONSENT_STRING]&coppa=0&livestream=1&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
@@ -686,11 +707,17 @@ https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/Images/LOGOxLG_400x200.png group-title="DEPORTES", INTER 24/7
 https://amg27604-amg27604c1-amgplt0025.playout.now3.amagi.tv/playlist/amg27604-amg27604c1-amgplt0025/playlist.m3u8?ads.bundleid=[APP_BUNDLE]&ads.donotsell=[DNS]&ads.ifatype=[IFA_TYPE]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.devicemodel=[DEVICE_MODEL]&ads.givn=[NONCE]&ads.idtype=[IDTYPE]&ads.ip=[IP]&ads.iu=[IU]&ads.usprivacy=[US_PRIVACY]&ads.prodq=[PRODQ]&ads.appstoreurl=[APP_STOREURL]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.lat=[LMT]&ads.appversion=[APP_VERSION]&ads.channel_name=[CHANNEL_NAME]&ads.devicetype=[DEVICE_TYPE]&ads.fck=[FCK]&ads.url=[URL]&ads.viewsize=[VIEWSIZE]&ads.appname=[APP_NAME]&ads.gpp=[GPP]&ads.ic=[IC]&ads.network_name=[NETWORK_NAME]&ads.targetad=[TARGETAD_ALLOWED]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.coppa=[COPPA]&ads.gpp_sid=[GPP_SID]&ads.lmt=[LMT]&ads.gdprconsent=[GDPR_CONSENT]&ads.schain=[SCHAIN]
 
+#EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/2284/lg/3df8f4/LG-Logo-PNG-100x100_v1.png group-title="DEPORTES ",MAN CITY 24/7
+https://fb9b8b6c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfTWFuQ2l0eTI0N19ITFM/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png group-title="DEPORTES", PLUTO TV PELEAS
 https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
 
 #EXTINF:-1 tvg-id="MLBStrikeZone.us@SD"group-title="DEPORTES",MLB STRIKER ZONE
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-id="MLB.us@SD" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="DEPORTES",MLB
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 
 #EXTINF:-1 tvg-id="613765" tvg-logo="https://canvas-lb.tubitv.com/opts/_665V4AxYSxlLA==/652d017f-fb2a-460e-a528-ee54cc6ed872/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",MLB
 https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
@@ -748,6 +775,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c" tvg-id="608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c" tvg-chno="" tvg-name="FreeTV Banda" tvg-logo="https://provider-static.plex.tv/epg/cms/production/324a3313-3bf5-44dc-a17a-2374ea8b6b3b/FreeTV_Banda.png" group-title="VIDEO MUSICAL",FREETVTV BANDA
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c/?X-Plex-Token=mXvRGW9rbBzpBV32V21s
+
+#EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/617/lg/01b45e/LG-Logo-PNG-100x100_v2.png  group-title="VIDEO MUSICAL", NEW KPOP
+https://c0e27451f9624e41b622986316e1b10f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-mx_NewKPop/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992426/600x200.png?type=white_cropped group-title="VIDEO MUSICAL",TIKTOK RADIO
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992426&ads.xumo_streamId=99992426&ads.channelId=99992426&ads.ad_tag_id=119701&ads.csid=lgchannels_mx_stingraytiktokenespanol_ssai&ads.channelName=stingraytiktokenespanol_mx&ads.xumo_contentName=StingrayTikTokRadioEspanol&ads.xumo_contentId=4252&ads.xumo_providerName=StingrayTikTokRadioEspanol&ads.xumo_providerId=4252&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
