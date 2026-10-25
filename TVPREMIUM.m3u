@@ -467,19 +467,19 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="INFANTIL&ANIMES",13 KIDS
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
-#EXTINF:-1 tvg-id="MrBeanAnimated.uk@ES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Kids",MR.BEAN ANIMADO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="INFANTIL&ANIMES",MR.BEAN ANIMADO
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/logoAlt_1785346475723.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png group-title="INFANTIL&ANIMES", PLUTO TV ANIME
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/logoAlt_1785346475723.png? group-title="INFANTIL&ANIMES", PLUTO TV ANIME
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png  group-title="INFANTIL&ANIMES",NARUTO
+#EXTINF:-1 group-title="INFANTIL&ANIMES",NARUTO
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png  group-title="INFANTIL&ANIMES", NARUTO SHIPPUDEN
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/logo.png? group-title="INFANTIL&ANIMES", NARUTO SHIPPUDEN
 https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png group-title="INFANTIL&ANIMES",DEATH NOTE
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/logo.png? group-title="INFANTIL&ANIMES",DEATH NOTE
 https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
 
 #EXTINF:-1 group-title="INFANTIL&ANIMES", ZYOONTV
