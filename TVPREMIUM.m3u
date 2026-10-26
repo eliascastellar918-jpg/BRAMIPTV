@@ -29,11 +29,6 @@ https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="DRAMAS&NOVELAS", TELEVISA NOVELAS 
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
 
-#EXTINF:0 group-title="DRAMAS&NOVELAS",TLNOVELAS
-#EXTGRP:DRAMAS&NOVELAS
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0t6
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="DRAMAS&NOVELAS",NOVELISIMAS
 https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8
 
@@ -713,17 +708,14 @@ https://fb9b8b6c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZX
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png group-title="DEPORTES", PLUTO TV PELEAS
 https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", FIGHT NETWORK
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8?channel_name=Fight%20Network&content_genre=MMA%2CSport&ic=IAB17%2CIAB17-20&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+
 #EXTINF:-1 tvg-id="MLBStrikeZone.us@SD"group-title="DEPORTES",MLB STRIKER ZONE
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-id="MLB.us@SD" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="DEPORTES",MLB
-https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
-
 #EXTINF:-1 tvg-id="613765" tvg-logo="https://canvas-lb.tubitv.com/opts/_665V4AxYSxlLA==/652d017f-fb2a-460e-a528-ee54cc6ed872/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",MLB
 https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", FIGHT NETWORK
-https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8?channel_name=Fight%20Network&content_genre=MMA%2CSport&ic=IAB17%2CIAB17-20&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD"group-title="DEPORTES",GOLF CHANNEL
 http://15.204.246.24:8080/GolfChannelHD/index.m3u8
@@ -778,7 +770,6 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-623954128ed2
 
 #EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/617/lg/01b45e/LG-Logo-PNG-100x100_v2.png  group-title="VIDEO MUSICAL", NEW KPOP
 https://c0e27451f9624e41b622986316e1b10f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-mx_NewKPop/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992426/600x200.png?type=white_cropped group-title="VIDEO MUSICAL",TIKTOK RADIO
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992426&ads.xumo_streamId=99992426&ads.channelId=99992426&ads.ad_tag_id=119701&ads.csid=lgchannels_mx_stingraytiktokenespanol_ssai&ads.channelName=stingraytiktokenespanol_mx&ads.xumo_contentName=StingrayTikTokRadioEspanol&ads.xumo_contentId=4252&ads.xumo_providerName=StingrayTikTokRadioEspanol&ads.xumo_providerId=4252&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
