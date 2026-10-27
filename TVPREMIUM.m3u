@@ -61,13 +61,13 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRAMAS&NOVELAS",TELEMUNDO ACCION
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/logoAlt_1762352082077.png?png group-title="ENTRETENIMIENTOS",COMEDY CENTER
+#EXTINF:-1 group-title="ENTRETENIMIENTOS",COMEDY CENTER
 https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/logo_1756972229126.png?png group-title="ENTRETENIMIENTOS", ACAPULCO SHORE
+#EXTINF:-1 group-title="ENTRETENIMIENTOS", ACAPULCO SHORE
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/logoAlt.png?png group-title="ENTRETENIMIENTOS",MTV CON MI EX
+#EXTINF:-1 group-title="ENTRETENIMIENTOS",MTV CON MI EX
 https://jmp2.uk/plu-638693db857364000781b471.m3u8
 
 #EXTINF:-1 tvg-id="13Realities.cl@SD" tvg-logo="https://i.imgur.com/m0SuwMU.png" group-title="ENTRETENIMIENTOS",13REALITIES
