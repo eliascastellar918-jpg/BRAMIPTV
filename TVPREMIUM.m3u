@@ -212,9 +212,6 @@ https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CanalDTV.do" tvg-name="Canal DTV" tvg-logo="https://i.imgur.com/JO5yuNC.png" group-title="PELICULAS&SERIES", DTV
 https://s.emisoras.tv:8081/dtv/index.m3u8
 
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional group-title="PELICULAS&SERIES",STAR CHANNEL
-http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png group-title="PELICULAS&SERIES",PLUTO TV SERIE DE SCI-FI
 https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
 
@@ -243,9 +240,6 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66843849a017
 
 #EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-name="Imagen Universal TV" tvg-logo="https://i.imgur.com/DP6HmDV.png group-title="PELICULAS&SERIES",IMAGEN UNIVERSAL TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional group-title="PELICULAS&SERIES",STUDIO UNIVERSAL
-http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 
 #EXTINF:0 group-title="PELICULAS&SERIES",UNIVERSAL CHANNEL
 #EXTGRP:PELICULAS&SERIES
@@ -345,12 +339,6 @@ https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/1003/lg/003d48/LG-Logo-PNG-100x100_v2.png group-title="PELICULAS&SERIES", SONY ONE CINEMA
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SonyChannelAndes.us@SD group-title="PELICULAS&SERIES",SONY CHANNEL
-http://15.204.246.24:8080/SonyHD/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD group-title="PELICULAS&SERIES",SONY MOVIES
-http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="PELICULAS&SERIES", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
