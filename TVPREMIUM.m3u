@@ -557,8 +557,8 @@ https://canal.mediaserver.com.co/live/cinedios.m3u8
 #EXTINF:-1 tvg-id="162" tvg-name="Extrema TV" tvg-logo="https://cdn.m3u.cl/logo/162_Extrema_TV.png group-title="RELIGION", EXTREMA TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="DEPORTES",*AYM SPORTS*
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="DEPORTES",AYM SPORTS 
+https://aym-as.otteravision.com/aym/as/as.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", **AYM SPORTS 3**
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
@@ -632,29 +632,20 @@ http://181.78.79.131:8000/play/a0s8
 #EXTINF:-1 tvg-id="ESPN EXTRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="DEPORTES",ESPN PREMIUM
 http://190.61.43.117:45000/play/a01v
 
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png group-title="DEPORTES", FOX DEPORTES
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-
 #EXTINF:-1 tvg-logo=group-title="DEPORTES", FOX SPORTS 2
 http://190.61.101.11:7050/play/a08v/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="GolTVLatinAmerica.us@SD group-title="DEPORTES",FOX PREMIUM
-http://177.234.249.178:8888/GOLTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png group-title="DEPORTES", DSPORTS
-https://s2.bufaloweb.com/bufalo9/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png group-title="DEPORTES", DSPORTS 2
-https://s2.bufaloweb.com/bufalo10/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png group-title="DEPORTES", DSPORTS+
-https://s2.bufaloweb.com/bufalo11/index.m3u8
+http://191.97.59.33:8000/play/a09t/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", SKY SPORT LALIGA
 http://179.60.224.196:8000/play/a0i7/index.m3u8
 
 #EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="DEPORTES",WIN SPORTS
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", WIN SPORTS+
+http://190.60.37.154:45000/play/a00q/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", TYC SPORTS
 http://190.60.37.154:45000/play/a05a/index.m3u8
@@ -709,11 +700,11 @@ https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
 #EXTINF:-1 tvg-id="MLBStrikeZone.us@SD"group-title="DEPORTES",MLB STRIKER ZONE
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-id="MLB.us@SD" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="DEPORTES",MLB
-https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
-
 #EXTINF:-1 tvg-id="613765" tvg-logo="https://canvas-lb.tubitv.com/opts/_665V4AxYSxlLA==/652d017f-fb2a-460e-a528-ee54cc6ed872/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",MLB
 https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="DEPORTES",DAZN RINGSIDE
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", FIGHT NETWORK
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8?channel_name=Fight%20Network&content_genre=MMA%2CSport&ic=IAB17%2CIAB17-20&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
