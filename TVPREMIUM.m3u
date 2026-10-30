@@ -188,7 +188,7 @@ https://amg00740-sofa-amg00740c11-lg-mx-8923.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="NI | WTV Canal 20 de Nueva Guinea" tvg-name="NI | WTV Canal 20 de Nueva Guinea" tvg-logo="https://yt3.ggpht.com/ytc/ AKedOLQJYlaCX1UArt5jM5r0sYe2E46sgxqbpuudC75Qaw=s900-ck-c0x00ffffff-no-rj" group-title="PELICULAS&SERIES", WTV 
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="PELICULAS&SERIES",TNT
+#EXTINF:-1  group-title="PELICULAS&SERIES",TNT
 http://190.61.43.117:45000/play/a050
 
 #EXTINF:-1 tvg-id="1143" tvg-name="Cosmos TV" tvg-logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png group-title="PELICULAS&SERIES", COSMOS TV 
@@ -252,7 +252,7 @@ http://190.61.43.117:45000/play/a05x
 #EXTINF:-1 group-title="PELICULAS&SERIES",UNIVERSAL PREMIERE
 http://190.61.43.117:45000/play/a05w
 
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg" group-title="PELICULAS&SERIES",UNIVERSAL COMEDY
+#EXTINF:-1 group-title="PELICULAS&SERIES",UNIVERSAL COMEDY
 http://190.61.43.117:45000/play/a06k
 
 #EXTINF:-1 tvg-id="PlanetaChannel.ec@SD" tvg-logo="https://i.imgur.com/XyBKaXI.png" group-title="PELICULAS&SERIES",PLANETA CHANNEL
@@ -267,7 +267,7 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 channel-id="79eb3a43680e5a9f9689fee074502a3b" tvg-id="79eb3a43680e5a9f9689fee074502a3b" tvg-chno="993" tvg-name="Cine Romantico" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eb3a43680e5a9f9689fee074502a3b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661549410243_cineRomantico_HUDlogo_centered_260x147.png" group-title="PELICULAS&SERIES",CINE ROMANTICO
 https://jmp2.uk/rok-79eb3a43680e5a9f9689fee074502a3b.m3u8
 
-#EXTINF:-1 tvg-id="DHE.us@SD" tvg-logo="https://i.imgur.com/nsttoEa.png" group-title="PELICULAS&SERIES",DHE 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsttoEa.png" group-title="PELICULAS&SERIES",DHE 
 http://15.204.246.24:8080/DHEHD/index.m3u8
 
 #EXTINF:-1 tvg-id="1681" tvg-name="Net Channel Señal 2" tvg-logo="https://cdn.m3u.cl/logo/1681_Net_Channel_Senal_2.png group-title="PELICULAS&SERIES", NET CHANNEL 
