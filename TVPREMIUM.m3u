@@ -79,6 +79,9 @@ https://amg00627-banijay-amg00627c50-lg-mx-9948.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="ENTRETENIMIENTOS",EL CHAVO TV 
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/chespirito.jpg" group-title="ENTRETENIMIENTOS" , CHESPIRITO 24/7
+http://m3u.tvcluboficial.com/free/oct/oct/153.m3u8
+
 #EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="ENTRETENIMIENTOS";News",E! 
 http://72.1.184.5:8089/play/a05d/index.m3u8
 
@@ -159,6 +162,9 @@ https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pp
 
+#EXTINF:-1 group-title="PELICULAS&SERIES", GEN TV
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PalmarTV.do" tvg-name="Palmar TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg" group-title="PELICULAS&SERIES",PALMAR TV
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
 
@@ -168,6 +174,9 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66843a1f20f4
 #EXTINF:-1 group-title="PELICULAS&SERIES",READY TV  
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
+#EXTINF:-1 group-title="PELICULAS&SERIES", Wow Movies
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="PELICULAS&SERIES",AURORAMEDIAFILM
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
@@ -175,6 +184,15 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTGRP:PELICULAS&SERIES
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0q2
+
+#EXTINF:-1 group-title="PELICULAS&SERIES", CINE FAMILY
+https://live20.bozztv.com/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="PELICULAS&SERIES", CINE MARVEL
+http://m3u.tvcluboficial.com/free/oct/oct/177.m3u8
+
+#EXTINF:-1 tvg-logo= group-title="PELICULAS&SERIES",CINE PICANTE
+https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinepicanteltus-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/670edb8149c4060008e3aec8/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png group-title="PELICULAS&SERIES",CINE ACCION
 https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
@@ -194,11 +212,17 @@ http://190.61.43.117:45000/play/a050
 #EXTINF:-1 tvg-id="1143" tvg-name="Cosmos TV" tvg-logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png group-title="PELICULAS&SERIES", COSMOS TV 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 
+#EXTINF:-1  group-title="PELICULAS&SERIES",HBO
+http://38.199.5.160:8000/play/a09o/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS&SERIES",HBO 2
 http://190.61.43.117:45000/play/a023
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/640px-HBO_Xtreme.svg.png" group-title="PELICULAS&SERIES",HBO XTREME 
 http://190.61.43.117:45000/play/a05u
+
+#EXTINF:-1  group-title="PELICULAS&SERIES",HBO +
+http://45.228.234.30:16000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS&SERIES",HBO Family
 http://190.61.43.117:45000/play/a05y
@@ -208,6 +232,9 @@ https://amg00740-sofa-amg00740c10-lg-mx-8915.playouts.now.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-id="Boreal.do" tvg-name="Boreal" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="PELICULAS&SERIES",BOREAL TV
 https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="PELICULAS&SERIES",METRO TV
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-id="CanalDTV.do" tvg-name="Canal DTV" tvg-logo="https://i.imgur.com/JO5yuNC.png" group-title="PELICULAS&SERIES", DTV
 https://s.emisoras.tv:8081/dtv/index.m3u8
@@ -226,8 +253,14 @@ https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pz
 
+#EXTINF:-1  group-title="PELICULAS&SERIES", MULTIVOX CINE
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992262/400x200.png?type=white_cropped group-title="PELICULAS&SERIES",XUMO PELICULAS GRATIS
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992262&ads.xumo_streamId=99992262&ads.channelId=99992262&ads.inventory_router_id=377&ads.csid=lgchannels_mx_peliculasgratis_ssai&ads.channelName=&ads.xumo_contentName=XumoAggregate&ads.xumo_contentId=5&ads.xumo_providerName=XumoAggregate&ads.xumo_providerId=5&ads.content_category=IAB1-7&ads.content_genre=Movies&ads.content_language=es&ads.content_rating=tv-ma&ads.coppa=0&ads._fw_content_genre=Movies&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 group-title="PELICULAS&SERIES",C21TV PELIS
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-668431d0702b9db9f817725e" tvg-id="608049aefa2b8ae93c2c3a63-668431d0702b9db9f817725e" tvg-chno="" tvg-name="Runtime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2bb53c0b-9893-4531-8609-e4c811441126/Runtime_LATAM_Dark_Mode_Logordx.png" group-title="PELICULAS&SERIES",RUNTIME TV
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-668431d0702b9db9f817725e/?X-Plex-Token=mXvRGW9rbBzpBV32V21s
@@ -240,6 +273,9 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66843849a017
 
 #EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-name="Imagen Universal TV" tvg-logo="https://i.imgur.com/DP6HmDV.png group-title="PELICULAS&SERIES",IMAGEN UNIVERSAL TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+#EXTINF:-1 group-title="PELICULAS&SERIES",STUDIO UNIVERSAL
+http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
 
 #EXTINF:0 group-title="PELICULAS&SERIES",UNIVERSAL CHANNEL
 #EXTGRP:PELICULAS&SERIES
@@ -260,6 +296,9 @@ https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
 
 #EXTINF:-1 tvg-id="ElPitucoTV.do" tvg-name="El Pituco TV" tvg-logo="https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png" group-title="PELICULAS&SERIES",EL PITUCO TV
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+
+#EXTINF:-1 group-title="PELICULAS&SERIES",TNT SERIES
+http://190.93.224.42/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="PELICULAS&SERIES",*XTREMA ACCION*
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
@@ -284,6 +323,9 @@ http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CromTV.do" tvg-name="CromTV" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="PELICULAS&SERIES",CROMTV
 https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="PELICULAS&SERIES", NITRO
+http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="CineFamiliar.us@SD group-title="PELICULAS&SERIES",CINE FAMILIAR
 http://177.234.218.66:8084/play/a001/index.m3u8
@@ -388,6 +430,9 @@ https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1323_Oromar.png" group-title="PELICULAS&SERIES RETRO", OROMAR TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L1Q70jL/Logo-Mi-TV-Television-Clasica.png group-title="PELICULAS&SERIES RETRO",MI TV CLASSICA
+https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="482" tvg-name="Frecuencia Musical TV" tvg-logo="https://cdn.m3u.cl/logo/482_Frecuencia_Musical_TV.png group-title="PELICULAS&SERIES RETRO", FRECUENCIA MUSICAL TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
 
@@ -447,6 +492,9 @@ http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 #EXTINF:-1 channel-id="ES1600007AI" tvg-id="ES1600007AI" tvg-chno="4782" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600007AI_20260721T035643SQUARE.png" group-title="INFANTIL&ANIMES",TELETUBBIES
 https://jmp2.uk/stvp-ES1600007AI
 
+#EXTINF:-1 group-title="INFANTIL&ANIMES",DINOSAURIOS
+https://live20.bozztv.com/giatvplayout7/giatv-209644/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CanalInfantil.us@SD group-title="INFANTIL&ANIMES",CANAL INFANTIL
 http://177.234.218.66:8084/play/a01x/index.m3u8
 
@@ -457,11 +505,35 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="INFANTIL&ANIMES",13 KIDS
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
+#EXTINF:-1 group-title="INFANTIL&ANIMES",CLASICOS ANIMADOS 
+https://rpn.bozztv.com/gusa/gusa-cartoonclassics/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="INFANTIL&ANIMES",MR.BEAN ANIMADO
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="INFANTIL&ANIMES", LOS SIMPSONS
+http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIL&ANIMES", TOONSMANIA TV
+https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png group-title="INFANTIL&ANIMES",GOGOPLAY TV
+https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fVdNPG7q/Logo-Anime-XTV.png group-title="INFANTIL&ANIMES",ANIMEXTV
+http://146.19.49.197:81/live/animextv_hi/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/logoAlt_1785346475723.png? group-title="INFANTIL&ANIMES", PLUTO TV ANIME
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+
+#EXTINF:-1 group-title="INFANTIL&ANIMES",DRAGON BALL
+https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
+
+#EXTINF:-1 group-title="INFANTIL&ANIMES",DRAGON BALL Z
+https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
+
+#EXTINF:-1 group-title="INFANTIL&ANIMES",DRAGON BALL SUPER
+https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIL&ANIMES",NARUTO
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
@@ -566,6 +638,9 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 channel-id="35633f08c98857cb9e85c91eae17c0d5" tvg-id="35633f08c98857cb9e85c91eae17c0d5" tvg-chno="933" tvg-name="ViX Lo Mejor de Liga MX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/35633f08c98857cb9e85c91eae17c0d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749856192932_LoMejorDeLigaMX_HUD_ChannelLogo_260x147px.png" group-title="DEPORTES",ViX LIGA MX
 https://jmp2.uk/rok-35633f08c98857cb9e85c91eae17c0d5.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", LIGA 1 MAX
+http://191.97.49.82:8001/play/a010/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png group-title="DEPORTES",PLUTO TV DEPORTES
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 
@@ -632,11 +707,20 @@ http://181.78.79.131:8000/play/a0s8
 #EXTINF:-1 tvg-id="ESPN EXTRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="DEPORTES",ESPN PREMIUM
 http://190.61.43.117:45000/play/a01v
 
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS
+http://190.61.101.11:7050/play/a08w/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo=group-title="DEPORTES", FOX SPORTS 2
 http://190.61.101.11:7050/play/a08v/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png group-title="DEPORTES", DSPORTS
-http://191.97.59.33:8000/play/a09t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",DSPORTS
+https://s2.bufaloweb.com/bufalo9/index.m3u8
+
+#EXTINF:-1group-title="DEPORTES" ,DSPORTS 2
+https://s2.bufaloweb.com/bufalo10/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",DSPORTS +
+https://s2.bufaloweb.com/bufalo11/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", SKY SPORT LALIGA
 http://179.60.224.196:8000/play/a0i7/index.m3u8
