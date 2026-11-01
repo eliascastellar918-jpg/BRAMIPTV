@@ -174,7 +174,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66843a1f20f4
 #EXTINF:-1 group-title="PELICULAS&SERIES",READY TV  
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
-#EXTINF:-1 group-title="PELICULAS&SERIES", Wow Movies
+#EXTINF:-1 group-title="PELICULAS&SERIES", WOW MOVIES
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="PELICULAS&SERIES",AURORAMEDIAFILM
