@@ -253,10 +253,7 @@ https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pz
 
-#EXTINF:-1  group-title="PELICULAS&SERIES", MULTIVOX CINE
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992262/400x200.png?type=white_cropped group-title="PELICULAS&SERIES",XUMO PELICULAS GRATIS
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992262/400x200.png?type=white_cropped group-title="PELICULAS&SERIES",XUMO PELICULAS 
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992262&ads.xumo_streamId=99992262&ads.channelId=99992262&ads.inventory_router_id=377&ads.csid=lgchannels_mx_peliculasgratis_ssai&ads.channelName=&ads.xumo_contentName=XumoAggregate&ads.xumo_contentId=5&ads.xumo_providerName=XumoAggregate&ads.xumo_providerId=5&ads.content_category=IAB1-7&ads.content_genre=Movies&ads.content_language=es&ads.content_rating=tv-ma&ads.coppa=0&ads._fw_content_genre=Movies&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 
 #EXTINF:-1 group-title="PELICULAS&SERIES",C21TV PELIS
@@ -300,9 +297,6 @@ https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 group-title="PELICULAS&SERIES",TNT SERIES
 http://190.93.224.42/FX/index.m3u8
 
-#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="PELICULAS&SERIES",*XTREMA ACCION*
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-
 #EXTINF:-1 channel-id="79eb3a43680e5a9f9689fee074502a3b" tvg-id="79eb3a43680e5a9f9689fee074502a3b" tvg-chno="993" tvg-name="Cine Romantico" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eb3a43680e5a9f9689fee074502a3b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661549410243_cineRomantico_HUDlogo_centered_260x147.png" group-title="PELICULAS&SERIES",CINE ROMANTICO
 https://jmp2.uk/rok-79eb3a43680e5a9f9689fee074502a3b.m3u8
 
@@ -311,12 +305,6 @@ http://15.204.246.24:8080/DHEHD/index.m3u8
 
 #EXTINF:-1 tvg-id="1681" tvg-name="Net Channel Señal 2" tvg-logo="https://cdn.m3u.cl/logo/1681_Net_Channel_Senal_2.png group-title="PELICULAS&SERIES", NET CHANNEL 
 https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="TVCotuiCanal31.do" tvg-name="TV Cotui Canal 31" tvg-logo="https://i.imgur.com/sMF7JDm.png" group-title="PELICULAS&SERIES",TV COTUI
-https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VillaAltagraciaTV.do@SD" tvg-logo="https://i.imgur.com/uQAeKKa.png" group-title="PELICULAS&SERIES",VILLA TV 
-https://stream.inliveserver.com:19360/8004/8004.m3u8
 
 #EXTINF:-1 tvg-id="BO | TV Show Oruro" tvg-name="BO | TV Show Oruro" tvg-logo="https://play-lh.googleusercontent.com/pN1aZEuwKrzn1ffaVWgnK1-AXQuIcBRqcbW8F2NK24Wdk2evewuglh2sxG2xIHlH6Qw=w240-h480-rw" group-title="PELICULAS&SERIES", TV SHOW 
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
@@ -393,9 +381,6 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
 #EXTINF:-1 tvg-id="NimTV.gt" tvg-logo="https://i.imgur.com/mBNOSzl.png" group-title="PELICULAS&SERIES",NIM TV 
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-
-#EXTINF:-1 tvg-id="ConstanzaTV.do@SD group-title="PELICULAS&SERIES",CONSTANZATV 
-https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaDescargaTV.do@HD group-title="PELICULAS&SERIES",LA DESCARGA TV
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
@@ -745,26 +730,8 @@ http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 group-title="DEPORTES", TUDN 
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", Dazn 2
-http://23.237.104.106:8080/DAZN_2/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", Dazn 3
-http://23.237.104.106:8080/DAZN_3/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", Dazn 4
-http://23.237.104.106:8080/DAZN_4/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", Dazn 5
-http://23.237.104.106:8080/DAZN_5/index.m3u8
-
 #EXTINF:-1 channel-id="b4273871759a5631bd536d2214f175e5" tvg-id="b4273871759a5631bd536d2214f175e5" tvg-chno="246" tvg-name="Fubo Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b4273871759a5631bd536d2214f175e5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761774127737_Roku-FSN-Logo-efefef.png" group-title="DEPORTES",FUBO SPORTS NETWORK
 https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
-
-#EXTINF:-1 tvg-id="Teledeporte.es@SD" tvg-logo="https://i.ibb.co/0jxLdjnY/TDP.png" group-title="DEPORTES",TELEDEPORTES
-https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", DFB Play
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15795&avod=1&content_dist_name=freelivesports&content_channel=DFB%20Play&channel_name=DFB%20Play&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&rating=PG&preferred_language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&consent=[CONSENT_STRING]&coppa=0&livestream=1&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/631_Real_Madrid_TV_HD.png" group-title="DEPORTES", REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
@@ -793,8 +760,11 @@ https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playl
 #EXTINF:-1 group-title="DEPORTES", FIGHT NETWORK
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8?channel_name=Fight%20Network&content_genre=MMA%2CSport&ic=IAB17%2CIAB17-20&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
-#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD"group-title="DEPORTES",GOLF CHANNEL
-http://15.204.246.24:8080/GolfChannelHD/index.m3u8
+#EXTINF:-1 tvg-id="30AGolfKingdom.us" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="DEPORTES",30A GOLF KINGDOM
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="DEPORTES",TENNIS CHANNEL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us@SD group-title="DEPORTES",NBA TV 
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -810,6 +780,9 @@ https://jmp2.uk/stvp-ESBD2900001P9
 
 #EXTINF:-1 group-title="VIDEO MUSICAL", RETRO PLUS MUSIC
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="VIDEO MUSICA", RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 group-title="VIDEO MUSICAL", RETRO PLUS TV SEÑAL 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
@@ -859,6 +832,9 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999263
 
 #EXTINF:-1 group-title="VIDEO MUSICAL",HELICONIA RADIO TV
 https://eu1.servers10.com:8081/8178/index.m3u8
+
+#EXTINF:-1 tvg-id="1312" tvg-name="Eternal Metal" tvg-logo="https://cdn.m3u.cl/logo/1312_Eternal_Metal.png" group-title="VIDEO MUSICAL", ETERNAL METAL
+https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8
 
 #EXTINF:-1 group-title="VIDEO MUSICAL",SUPERMUSICA TV
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
