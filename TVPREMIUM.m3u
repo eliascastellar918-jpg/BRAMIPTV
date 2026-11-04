@@ -641,9 +641,6 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 #EXTINF:-1 channel-id="04be54c79d1f55d0909e684f64f9fb57" tvg-id="04be54c79d1f55d0909e684f64f9fb57" tvg-chno="939" tvg-name="Azteca Deportes Network LITE 3" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/04be54c79d1f55d0909e684f64f9fb57/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1718994621239_AI_Roku_260x147_Mono_DEPORTES_TB_Oct23.png" group-title="DEPORTES",NITRO AZTECA DEPORTES
 https://jmp2.uk/rok-04be54c79d1f55d0909e684f64f9fb57.m3u8
 
-#EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="DEPORTES",AZTECA DEPORTES NETWORK
-http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
-
 #EXTINF:-1 group-title="DEPORTES", FUTBOL NETWORK TV
 https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
 
@@ -748,10 +745,7 @@ https://fb9b8b6c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZX
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png group-title="DEPORTES", PLUTO TV PELEAS
 https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
 
-#EXTINF:-1 tvg-id="MLBStrikeZone.us@SD"group-title="DEPORTES",MLB STRIKER ZONE
-http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
-
-#EXTINF:-1 tvg-id="613765" tvg-logo="https://canvas-lb.tubitv.com/opts/_665V4AxYSxlLA==/652d017f-fb2a-460e-a528-ee54cc6ed872/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",MLB
+#EXTINF:-1 tvg-id="613765" tvg-logo="https://canvas-lb.tubitv.com/opts/_665V4AxYSxlLA==/652d017f-fb2a-460e-a528-ee54cc6ed872/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",MLB recopilacio
 https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="DEPORTES",DAZN RINGSIDE
@@ -778,14 +772,8 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESBD2900001P9" tvg-name="ESBD2900001P9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20241022T051205SQUARE.png" group-title="DEPORTES" , WORLD POKER TOUR
 https://jmp2.uk/stvp-ESBD2900001P9
 
-#EXTINF:-1 group-title="VIDEO MUSICAL", RETRO PLUS MUSIC
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="VIDEO MUSICA", RETRO TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="VIDEO MUSICAL", RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 group-title="VIDEO MUSICAL", RETRO PLUS TV SEÑAL 2
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992629/600x200.png?type=white_cropped group-title="VIDEO MUSICAL",STINGRAY BALADAS 80s
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992629&ads.xumo_streamId=99992629&ads.channelId=99992629&ads.ad_tag_id=119699&ads.csid=lgchannels_mx_stingraypopmexicano80s_ssai&ads.channelName=stingraypopmexicano80s_mx&ads.xumo_contentName=StingrayPopMexicano80s&ads.xumo_contentId=4255&ads.xumo_providerName=StingrayPopMexicano80s&ads.xumo_providerId=4255&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-pg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
@@ -822,7 +810,6 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-623954128ed2
 
 #EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/617/lg/01b45e/LG-Logo-PNG-100x100_v2.png  group-title="VIDEO MUSICAL", NEW KPOP
 https://c0e27451f9624e41b622986316e1b10f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-mx_NewKPop/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992426/600x200.png?type=white_cropped group-title="VIDEO MUSICAL",TIKTOK RADIO
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992426&ads.xumo_streamId=99992426&ads.channelId=99992426&ads.ad_tag_id=119701&ads.csid=lgchannels_mx_stingraytiktokenespanol_ssai&ads.channelName=stingraytiktokenespanol_mx&ads.xumo_contentName=StingrayTikTokRadioEspanol&ads.xumo_contentId=4252&ads.xumo_providerName=StingrayTikTokRadioEspanol&ads.xumo_providerId=4252&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
@@ -872,9 +859,6 @@ https://stream.vagalume.fm/hls/1524167056721891/aac.m3u8
 #EXTINF:-0 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="RADIO", *CHAMPETA RADIO* 
 https://stream.zeno.fm/ra1r9pp1ey8uv
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="RADIO", +AFRICA RADIO+
-https://usa5.fastcast4u.com/proxy/cameroon?mp=/1/stream
-
 #EXTINF:-1 group-title="RADIO",+AFRICA ALL STARS+
 https://stream.zeno.fm/udhh2v1itqxtv
 
@@ -911,4 +895,4 @@ https://cast.zuperdns.net/8022/stream/;stream.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="RADIO", **MUSICA LLANERA RADIO**
 http://192.99.203.81:8704/ ;stream.mp3**?
 
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1578197770.jpg" group-title="RADIO", *RADIO OPERA*
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1578197770.jpg" group-title="RADIO", **RADIO OPERA**
