@@ -79,7 +79,7 @@ https://amg00627-banijay-amg00627c50-lg-mx-9948.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="ENTRETENIMIENTOS",EL CHAVO TV 
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/chespirito.jpg" group-title="ENTRETENIMIENTOS" , CHESPIRITO 24/7
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/chespirito.jpg" group-title="ENTRETENIMIENTOS" , CHESPIRITO TV
 http://m3u.tvcluboficial.com/free/oct/oct/153.m3u8
 
 #EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="ENTRETENIMIENTOS";News",E! 
@@ -185,7 +185,7 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0q2
 
-#EXTINF:-1 group-title="PELICULAS&SERIES", CINE FAMILY
+#EXTINF:-1 group-title="PELICULAS&SERIES", CINE FAMILIA
 https://live20.bozztv.com/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="PELICULAS&SERIES", CINE MARVEL
@@ -303,16 +303,13 @@ https://jmp2.uk/rok-79eb3a43680e5a9f9689fee074502a3b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nsttoEa.png" group-title="PELICULAS&SERIES",DHE 
 http://15.204.246.24:8080/DHEHD/index.m3u8
 
-#EXTINF:-1 tvg-id="1681" tvg-name="Net Channel Señal 2" tvg-logo="https://cdn.m3u.cl/logo/1681_Net_Channel_Senal_2.png group-title="PELICULAS&SERIES", NET CHANNEL 
-https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="BO | TV Show Oruro" tvg-name="BO | TV Show Oruro" tvg-logo="https://play-lh.googleusercontent.com/pN1aZEuwKrzn1ffaVWgnK1-AXQuIcBRqcbW8F2NK24Wdk2evewuglh2sxG2xIHlH6Qw=w240-h480-rw" group-title="PELICULAS&SERIES", TV SHOW 
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CromTV.do" tvg-name="CromTV" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="PELICULAS&SERIES",CROMTV
 https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PELICULAS&SERIES", NITRO
+#EXTINF:-1 group-title="PELICULAS&SERIES", NITRO HD
 http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="CineFamiliar.us@SD group-title="PELICULAS&SERIES",CINE FAMILIAR
@@ -339,11 +336,11 @@ https://edge.essastream.com/xtratv/index.m3u8
 #EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="PELICULAS&SERIES",BUM TELEVISION
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1573_Net_Channel.png" group-title="PELICULAS&SERIES", NET CHANNEL
+https://media.streambrothers.com:19360/8134/8134.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="CSIenespanol.us" tvg-logo="https://i.imgur.com/ifarQil.png" group-title="PELICULAS&SERIES",CSI EN ESPAÑOL
 https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
-
-#EXTINF:-1 tvg-id="LaCaletaTV.do@SD" tvg-logo="https://i.imgur.com/EfMtOja.png" group-title="PELICULAS&SERIES",LA CALETA TV 
-https://edge.essastream.com/lacaletatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="PELICULAS&SERIES", CANELA TV
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist.m3u8
@@ -614,7 +611,7 @@ https://canal.mediaserver.com.co/live/cinedios.m3u8
 #EXTINF:-1 tvg-id="162" tvg-name="Extrema TV" tvg-logo="https://cdn.m3u.cl/logo/162_Extrema_TV.png group-title="RELIGION", EXTREMA TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="DEPORTES",AYM SPORTS 
+#EXTINF:-1  group-title="DEPORTES",AYM SPORTS 
 https://aym-as.otteravision.com/aym/as/as.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", **AYM SPORTS 3**
@@ -625,6 +622,9 @@ https://jmp2.uk/rok-35633f08c98857cb9e85c91eae17c0d5.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", LIGA 1 MAX
 http://191.97.49.82:8001/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="DEPORTES",CDN DEPORTES
+https://hls.tvabierta.net/hls/036.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/logoAlt.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png group-title="DEPORTES",PLUTO TV DEPORTES
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
@@ -772,6 +772,12 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESBD2900001P9" tvg-name="ESBD2900001P9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20241022T051205SQUARE.png" group-title="DEPORTES" , WORLD POKER TOUR
 https://jmp2.uk/stvp-ESBD2900001P9
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="VIDEO MUSICAL", RETRO PLUS TV 
+https://srt01.logicahost.com.br/senal1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="VIDEO MUSICAL", RETRO PLUS TV SEÑAL 2 
+https://srt01.logicahost.com.br/senal2/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="VIDEO MUSICAL", RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
@@ -804,6 +810,9 @@ https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https:/
 
 #EXTINF:-1 group-title="VIDEO MUSICAL",SALSA GORDA TELEVISION
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1635_Salsa_TV.png" group-title="VIDEO MUSICAL", SALSA TV
+https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/1.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c" tvg-id="608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c" tvg-chno="" tvg-name="FreeTV Banda" tvg-logo="https://provider-static.plex.tv/epg/cms/production/324a3313-3bf5-44dc-a17a-2374ea8b6b3b/FreeTV_Banda.png" group-title="VIDEO MUSICAL",FREETVTV BANDA
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c/?X-Plex-Token=mXvRGW9rbBzpBV32V21s
