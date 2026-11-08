@@ -12,6 +12,9 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-608b7095a092
 #EXTINF:-1 channel-id="9b3f0b588b03c9126a053d3eebfc58db" tvg-id="9b3f0b588b03c9126a053d3eebfc58db" tvg-chno="1013" tvg-name="FreeTV Asia" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9b3f0b588b03c9126a053d3eebfc58db/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1736789758464_FreeTV_Asia_HUD_Logo_.png" group-title="DRAMAS&NOVELAS",FREETV ASIA
 https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bdb3cb29453a137748dfaeadae2f9d2b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765320641655_jira-generated-image-static-b6689660-306d-406e-adcb-d123fd2f979c.png" group-title="DRAMAS&NOVELAS",TV AMOR
+https://jmp2.uk/rok-bdb3cb29453a137748dfaeadae2f9d2b.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="DRAMAS&NOVELAS", NOVELAS TURCAS
 https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist.m3u8
 
@@ -185,14 +188,8 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0q2
 
-#EXTINF:-1 group-title="PELICULAS&SERIES", CINE FAMILIA
+#EXTINF:-1 group-title="PELICULAS&SERIES", MOVIES FAMILIA
 https://live20.bozztv.com/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="PELICULAS&SERIES", CINE MARVEL
-http://m3u.tvcluboficial.com/free/oct/oct/177.m3u8
-
-#EXTINF:-1 tvg-logo= group-title="PELICULAS&SERIES",CINE PICANTE
-https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinepicanteltus-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/670edb8149c4060008e3aec8/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png group-title="PELICULAS&SERIES",CINE ACCION
 https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
@@ -226,6 +223,12 @@ http://45.228.234.30:16000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS&SERIES",HBO Family
 http://190.61.43.117:45000/play/a05y
+
+#EXTINF:- group-title="PELICULAS&SERIES", ENT CHANNEL
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 group-title="PELICULAS&SERIES", ENT FAMILY
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png group-title="PELICULAS&SERIES",FILMELIER TV
 https://amg00740-sofa-amg00740c10-lg-mx-8915.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmelierspanish-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
@@ -291,17 +294,18 @@ http://190.61.43.117:45000/play/a06k
 #EXTINF:-1 tvg-id="PlanetaChannel.ec@SD" tvg-logo="https://i.imgur.com/XyBKaXI.png" group-title="PELICULAS&SERIES",PLANETA CHANNEL
 https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
 
-#EXTINF:-1 tvg-id="ElPitucoTV.do" tvg-name="El Pituco TV" tvg-logo="https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png" group-title="PELICULAS&SERIES",EL PITUCO TV
-https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
-
 #EXTINF:-1 group-title="PELICULAS&SERIES",TNT SERIES
 http://190.93.224.42/FX/index.m3u8
 
 #EXTINF:-1 channel-id="79eb3a43680e5a9f9689fee074502a3b" tvg-id="79eb3a43680e5a9f9689fee074502a3b" tvg-chno="993" tvg-name="Cine Romantico" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eb3a43680e5a9f9689fee074502a3b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661549410243_cineRomantico_HUDlogo_centered_260x147.png" group-title="PELICULAS&SERIES",CINE ROMANTICO
 https://jmp2.uk/rok-79eb3a43680e5a9f9689fee074502a3b.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nsttoEa.png" group-title="PELICULAS&SERIES",DHE 
-http://15.204.246.24:8080/DHEHD/index.m3u8
+#EXTINF:-1 group-title="PELICULAS&SERIES", CINE MARVEL
+http://m3u.tvcluboficial.com/free/oct/oct/177.m3u8
+
+#EXTINF:-1 tvg-logo= group-title="PELICULAS&SERIES",CINE PICANTE
+https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinepicanteltus-canelatvinternational/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="BO | TV Show Oruro" tvg-name="BO | TV Show Oruro" tvg-logo="https://play-lh.googleusercontent.com/pN1aZEuwKrzn1ffaVWgnK1-AXQuIcBRqcbW8F2NK24Wdk2evewuglh2sxG2xIHlH6Qw=w240-h480-rw" group-title="PELICULAS&SERIES", TV SHOW 
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
@@ -341,6 +345,9 @@ https://media.streambrothers.com:19360/8134/8134.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="CSIenespanol.us" tvg-logo="https://i.imgur.com/ifarQil.png" group-title="PELICULAS&SERIES",CSI EN ESPAÑOL
 https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
+
+#EXTINF:-1 group-title="PELICULAS&SERIES", TELEMIX
+https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="PELICULAS&SERIES", CANELA TV
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist.m3u8
@@ -385,11 +392,8 @@ https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 channel-id="a208207740dabd5e846e107b84db9123" tvg-id="a208207740dabd5e846e107b84db9123" tvg-chno="1019" tvg-name="PopCorn Central" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a208207740dabd5e846e107b84db9123/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1778891092269_Info-HUD-channel-Identifier_260x147.png" group-title="PELICULAS&SERIES",POPCORN CENTRAL
 https://jmp2.uk/rok-a208207740dabd5e846e107b84db9123.m3u8
 
-#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional group-title="PELICULAS&SERIES",USA NETWORK
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional group-title="PELICULAS&SERIES",SERIES USA
 http://138.121.15.230:9002/USA/index.m3u8
-
-#EXTINF:-1 tvg-id="MarkaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg" group-title="PELICULAS&SERIES",MARKA TV
-https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do@SD" tvg-logo="https://i.imgur.com/fJD7OxB.png" group-title="PELICULAS&SERIES",CTVD 
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
@@ -405,9 +409,6 @@ https://jmp2.uk/rok-9fc6583c28985e15b3f05b46f5d77957.m3u8
 
 #EXTINF:-1 channel-id="017397f76bae510a8a9800c4b94eaa40" tvg-id="017397f76bae510a8a9800c4b94eaa40" tvg-chno="991" tvg-name="ViX Cine Club" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/017397f76bae510a8a9800c4b94eaa40/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751574192_CineClub_RokuHub_260x147_White.png" group-title="PELICULAS&SERIES",ViX CINE CLUB
 https://jmp2.uk/rok-017397f76bae510a8a9800c4b94eaa40.m3u8
-
-#EXTINF:-1 tvg-id="TVMAX.pe@SD" tvg-logo="https://i.imgur.com/JFBpDJ1.jpeg" group-title="PELICULAS&SERIES",TV MAX
-https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1323_Oromar.png" group-title="PELICULAS&SERIES RETRO", OROMAR TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
