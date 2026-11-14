@@ -183,9 +183,6 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66843a1f20f4
 #EXTINF:-1 group-title="PELICULAS&SERIES",READY TV  
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
-#EXTINF:-1 group-title="PELICULAS&SERIES", WOW MOVIES
-https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="PELICULAS&SERIES",AURORAMEDIAFILM
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
@@ -193,9 +190,6 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTGRP:PELICULAS&SERIES
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0q2
-
-#EXTINF:-1 group-title="PELICULAS&SERIES", MOVIES FAMILIA
-https://live20.bozztv.com/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/670edb8149c4060008e3aec8/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png group-title="PELICULAS&SERIES",CINE ACCION
 https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
@@ -297,9 +291,6 @@ http://190.61.43.117:45000/play/a05w
 #EXTINF:-1 group-title="PELICULAS&SERIES",UNIVERSAL COMEDY
 http://190.61.43.117:45000/play/a06k
 
-#EXTINF:-1 tvg-id="PlanetaChannel.ec@SD" tvg-logo="https://i.imgur.com/XyBKaXI.png" group-title="PELICULAS&SERIES",PLANETA CHANNEL
-https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
-
 #EXTINF:-1 group-title="PELICULAS&SERIES",TNT SERIES
 http://190.93.224.42/FX/index.m3u8
 
@@ -311,7 +302,6 @@ http://m3u.tvcluboficial.com/free/oct/oct/177.m3u8
 
 #EXTINF:-1 tvg-logo= group-title="PELICULAS&SERIES",CINE PICANTE
 https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinepicanteltus-canelatvinternational/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="BO | TV Show Oruro" tvg-name="BO | TV Show Oruro" tvg-logo="https://play-lh.googleusercontent.com/pN1aZEuwKrzn1ffaVWgnK1-AXQuIcBRqcbW8F2NK24Wdk2evewuglh2sxG2xIHlH6Qw=w240-h480-rw" group-title="PELICULAS&SERIES", TV SHOW 
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
@@ -343,17 +333,11 @@ https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="XtraTv.do@HD" tvg-logo="https://xtratvrd.com/logo512.png" group-title="PELICULAS&SERIES",XTRA TV
 https://edge.essastream.com/xtratv/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="PELICULAS&SERIES",BUM TELEVISION
-https://movil.ejeserver.com/live/visiondorada.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1573_Net_Channel.png" group-title="PELICULAS&SERIES", NET CHANNEL
 https://media.streambrothers.com:19360/8134/8134.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="CSIenespanol.us" tvg-logo="https://i.imgur.com/ifarQil.png" group-title="PELICULAS&SERIES",CSI EN ESPAÑOL
 https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
-
-#EXTINF:-1 group-title="PELICULAS&SERIES", TELEMIX
-https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="PELICULAS&SERIES", CANELA TV
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist.m3u8
@@ -436,9 +420,6 @@ https://jmp2.uk/stvp-ESBC2700002LO
 
 #EXTINF:-1 tvg-id="ES2300005G7" tvg-name="ES2300005G7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20251028T011347SQUARE.png" group-title="PELICULAS&SERIES RETRO" , CINE WESTERN
 https://jmp2.uk/stvp-ES2300005G7
-
-#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png group-title="PELICULAS&SERIES RETRO", RETRO PLUS TV 3
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="PELICULAS&SERIES RETRO",*PELIMEX*
 https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
