@@ -462,9 +462,6 @@ http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 #EXTINF:-1 channel-id="ES1600007AI" tvg-id="ES1600007AI" tvg-chno="4782" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600007AI_20260721T035643SQUARE.png" group-title="INFANTIL&ANIMES",TELETUBBIES
 https://jmp2.uk/stvp-ES1600007AI
 
-#EXTINF:-1 group-title="INFANTIL&ANIMES",DINOSAURIOS
-https://live20.bozztv.com/giatvplayout7/giatv-209644/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CanalInfantil.us@SD group-title="INFANTIL&ANIMES",CANAL INFANTIL
 http://177.234.218.66:8084/play/a01x/index.m3u8
 
@@ -484,12 +481,6 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="INFANTIL&ANIMES", LOS SIMPSONS
 http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 
-#EXTINF:-1 group-title="INFANTIL&ANIMES", TOONSMANIA TV
-https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png group-title="INFANTIL&ANIMES",GOGOPLAY TV
-https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fVdNPG7q/Logo-Anime-XTV.png group-title="INFANTIL&ANIMES",ANIMEXTV
 http://146.19.49.197:81/live/animextv_hi/index.m3u8
 
@@ -501,9 +492,6 @@ https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
 
 #EXTINF:-1 group-title="INFANTIL&ANIMES",DRAGON BALL Z
 https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
-
-#EXTINF:-1 group-title="INFANTIL&ANIMES",DRAGON BALL SUPER
-https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIL&ANIMES",NARUTO
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
@@ -763,11 +751,11 @@ https://jmp2.uk/stvp-ESBD2900001P9
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="VIDEO MUSICAL", RETRO PLUS TV 
 https://srt01.logicahost.com.br/senal1/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="VIDEO MUSICAL", RETRO PLUS TV SEÑAL 2 
-https://srt01.logicahost.com.br/senal2/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="VIDEO MUSICAL", RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="VIDEO MUSICAL", RETRO PLUS TV SEÑAL 2 
+https://srt01.logicahost.com.br/senal2/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992629/600x200.png?type=white_cropped group-title="VIDEO MUSICAL",STINGRAY BALADAS 80s
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992629&ads.xumo_streamId=99992629&ads.channelId=99992629&ads.ad_tag_id=119699&ads.csid=lgchannels_mx_stingraypopmexicano80s_ssai&ads.channelName=stingraypopmexicano80s_mx&ads.xumo_contentName=StingrayPopMexicano80s&ads.xumo_contentId=4255&ads.xumo_providerName=StingrayPopMexicano80s&ads.xumo_providerId=4255&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-pg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
@@ -795,9 +783,6 @@ https://canal.mediaserver.com.co/live/buenisimatv.m3u8
 
 #EXTINF:-1 group-title="VIDEO MUSICAL",EMISORA COMUNITARIA 104.1 FM
 https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8
-
-#EXTINF:-1 group-title="VIDEO MUSICAL",SALSA GORDA TELEVISION
-https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1635_Salsa_TV.png" group-title="VIDEO MUSICAL", SALSA TV
 https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/1.m3u8?PlaylistM3UCL
