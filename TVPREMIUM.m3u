@@ -85,9 +85,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/chespirito.jpg" group-title="ENTRETENIMIENTOS" , CHESPIRITO TV
 http://m3u.tvcluboficial.com/free/oct/oct/153.m3u8
 
-#EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="ENTRETENIMIENTOS";News",E! 
-http://72.1.184.5:8089/play/a05d/index.m3u8
-
 #EXTINF:-1 channel-id="5b18fd4082c85d698f6f71702d82be28" tvg-id="5b18fd4082c85d698f6f71702d82be28" tvg-chno="1052" tvg-name="COPS EN Español" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b18fd4082c85d698f6f71702d82be28/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694471259398_COPSenESPANOL_Image_HUD_2_Meela_Hice.png" group-title="ENTRETENIMIENTOS",COPS en ESPAÑOL
 https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8
 
