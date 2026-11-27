@@ -671,6 +671,9 @@ http://190.61.101.11:7050/play/a08w/index.m3u8?hls
 #EXTINF:-1 tvg-logo=group-title="DEPORTES", FOX SPORTS 2
 http://190.61.101.11:7050/play/a08v/index.m3u8?hls
 
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/115.ts
+
 #EXTINF:-1 group-title="DEPORTES",DSPORTS
 https://s2.bufaloweb.com/bufalo9/index.m3u8
 
