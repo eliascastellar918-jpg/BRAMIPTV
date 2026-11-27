@@ -265,6 +265,9 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-668431d0702b
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3" tvg-id="608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3" tvg-chno="" tvg-name="Runtime Acción" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9da5683e-30e8-4b78-99b5-a30c8f665f63/Runtime_ES_Accion_Dark_Mode_Logordx.png" group-title="PELICULAS&SERIES",RUNTIME ACCION
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3/?X-Plex-Token=mXvRGW9rbBzpBV32V21s
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="PELICULAS&SERIES",RUNTIME PELICULAS 
+https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
+
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-66843849a017b7e51aeb28d7" tvg-id="608049aefa2b8ae93c2c3a63-66843849a017b7e51aeb28d7" tvg-chno="" tvg-name="Runtime Comedia" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3208e7c-cc1c-4e9a-9304-5070368a7cc7/Runtime_ES_Comedia_Dark_Mode_Logordx.png" group-title="PELICULAS&SERIES",RUNTIME COMEDIA
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66843849a017b7e51aeb28d7/?X-Plex-Token=mXvRGW9rbBzpBV32V21s
 
