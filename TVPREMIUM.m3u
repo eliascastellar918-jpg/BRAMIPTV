@@ -668,11 +668,20 @@ http://190.61.43.117:45000/play/a01v
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS
 http://190.61.101.11:7050/play/a08w/index.m3u8?hls
 
+#EXTINF:-1 group-title="DEPORTES",FOX
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8
+
 #EXTINF:-1 tvg-logo=group-title="DEPORTES", FOX SPORTS 2
 http://190.61.101.11:7050/play/a08v/index.m3u8?hls
 
+#EXTINF:-1 group-title="DEPORTES",FOX 2
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10532.m3u8
+
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/115.ts
+
+#EXTINF:-1 group-title="DEPORTES",FOX 3
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/458.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS PREMIUM 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/375.ts
