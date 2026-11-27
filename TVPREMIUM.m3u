@@ -608,8 +608,8 @@ https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 #EXTINF:-1 tvg-id="1199" tvg-name="D13" tvg-logo="https://cdn.m3u.cl/logo/1199_D13.png group-title="DEPORTES", D13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="613759" tvg-logo="https://canvas-lb.tubitv.com/opts/ktnXB23ysVjauw==/8968101d-cc65-48c7-a102-0a6a46ca55db/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",BEIN SPORTS XTRA Ñ
-https://live-manifest.production-public.tubi.io/live/6cd31e43-d255-4ab4-b065-7f28bd541047/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/ktnXB23ysVjauw==/8968101d-cc65-48c7-a102-0a6a46ca55db/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",BEIN SPORTS XTRA Ñ
+https://amg01334-amg01334c1-freelivesports-emea-6792.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/1855/lg/155937/LG-Logo-PNG-100x100_v1.png group-title="DEPORTES", FIFA+
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
